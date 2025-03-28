@@ -1,4 +1,4 @@
-```markdown
+
 # Shortest Path Algorithms Comparison
 
 Este proyecto compara el rendimiento de tres algoritmos clásicos para encontrar caminos más cortos en grafos:
@@ -52,4 +52,4 @@ El benchmark generará gráficas comparando:
 
 - Los algoritmos están optimizados para claridad, no para máximo rendimiento
 - Configura los parámetros en `config/settings.py`
-```
+
