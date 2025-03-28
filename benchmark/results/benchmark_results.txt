@@ -1,0 +1,48 @@
+DIJKSTRA Results:
+  Nodes: 10, Time: 0.000010s
+  Nodes: 20, Time: 0.000019s
+  Nodes: 30, Time: 0.000039s
+  Nodes: 40, Time: 0.000056s
+  Nodes: 50, Time: 0.000067s
+  Nodes: 75, Time: 0.000167s
+  Nodes: 100, Time: 0.000333s
+  Nodes: 150, Time: 0.000401s
+  Nodes: 200, Time: 0.001283s
+  Nodes: 300, Time: 0.001858s
+  Nodes: 400, Time: 0.004373s
+  Nodes: 500, Time: 0.005658s
+  Nodes: 750, Time: 0.011750s
+  Nodes: 1000, Time: 0.011275s
+
+BELLMAN_FORD Results:
+  Nodes: 10, Time: 0.000017s
+  Nodes: 20, Time: 0.000046s
+  Nodes: 30, Time: 0.000077s
+  Nodes: 40, Time: 0.000139s
+  Nodes: 50, Time: 0.000138s
+  Nodes: 75, Time: 0.000519s
+  Nodes: 100, Time: 0.000913s
+  Nodes: 150, Time: 0.001405s
+  Nodes: 200, Time: 0.007214s
+  Nodes: 300, Time: 0.009246s
+  Nodes: 400, Time: 0.027249s
+  Nodes: 500, Time: 0.030748s
+  Nodes: 750, Time: 0.046311s
+  Nodes: 1000, Time: 0.064995s
+
+ASTAR Results:
+  Nodes: 10, Time: 0.000015s
+  Nodes: 20, Time: 0.000042s
+  Nodes: 30, Time: 0.000024s
+  Nodes: 40, Time: 0.000113s
+  Nodes: 50, Time: 0.000188s
+  Nodes: 75, Time: 0.000208s
+  Nodes: 100, Time: 0.000087s
+  Nodes: 150, Time: 0.001259s
+  Nodes: 200, Time: 0.000422s
+  Nodes: 300, Time: 0.008948s
+  Nodes: 400, Time: 0.017133s
+  Nodes: 500, Time: 0.024685s
+  Nodes: 750, Time: 0.025277s
+  Nodes: 1000, Time: 0.072697s
+
